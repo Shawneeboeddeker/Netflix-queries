@@ -1,5 +1,5 @@
 # Netflix-queries
-queries from two tables in a Netflix database
+queries from two tables in a Netflix database using Postgre.sql
 
 select count(*) 
 FROM "CharlotteChaze/BreakIntoTech"."netflix_titles_info"
